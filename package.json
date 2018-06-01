@@ -1,0 +1,20 @@
+{
+  "name": "react-native-tab-utils",
+  "version": "1.0.0",
+  "description": "Utils like Steppers and Tab Bottom Bar, to be used with any TabView/ViewPager.",
+  "main": "TabIndicators.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananyachandra14/react-native-tab-utils.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "ananyachandra14",
+    "email": "ananyachandra14@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananyachandra14/react-native-tab-utils/issues"
+  },
+  "homepage": "https://github.com/ananyachandra14/react-native-tab-utils#readme"
+}
