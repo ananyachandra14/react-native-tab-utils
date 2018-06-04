@@ -4,7 +4,7 @@
 ## Build and run demo
 - Run `npm install react-native-tab-utils`
 - To run TabUtilsExample, add:<br>
-  - In your package.json dependencies, add `"rn-keyboard-aware-tab-view": "0.0.3"` and run `npm install`.
+  - Run `npm install rn-keyboard-aware-tab-view`. It's a modified react native community TabView which returns onPositionChange callback, used in TabUtilsExample.
   - In your index.js, add `import TabUtilsExample from "react-native-tab-utils/TabUtilsExample";` and `AppRegistry.registerComponent("AwesomeProject", () => TabUtilsExample);`.
   
 ## Usage
